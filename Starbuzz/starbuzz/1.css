@@ -1,0 +1,18 @@
+#allcontent {
+  position: relative;
+  height: 500px;
+  width: 100px;
+  border: khaki solid;
+}
+#sst {
+  position: absolute;
+  border: red solid thin;
+  top: 128px;
+  right: 5px; 
+}
+#SST {
+  position: relative;
+  border-block-end-color: khaki;
+  top: 3;
+  border-right: khaki;
+}
