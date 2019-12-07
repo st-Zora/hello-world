@@ -1,0 +1,132 @@
+ul {
+    margin: 10px 10px 10px;
+    padding: 5px 0px 5px 0px;
+    list-style-type: none;
+    color: gray;
+}
+nav ul li {
+    display: block;
+    padding: 50px 10px 0px 10px}
+
+.c-masthead_headline {
+     color: inherit;
+     font-family: 'Future PT W01 Book';
+     line-height: 1rem;
+     padding: 135px 30px 0;
+     text-align: center;
+     text-transform: uppercase;
+     width: 100%;
+
+}
+.c-masthead_subtitle {
+    color: inherit;
+    display: inline-block;
+    font-size: 25px;
+    line-height: 8;
+    margin-bottom: 24px;
+    margin-top: 0;
+}
+.car1_
+#arm {
+    border-bottom:0 ;
+    display: inline-block;
+    height: inherit;
+    margin: 500px;
+    padding: inherit;
+    width: inherit;
+
+
+}
+ .sr-only {
+     border-block: 0;
+     clip: rect(0px,0px,0px,0px);
+     height: 1px;
+     margin: -1px;
+     overflow: hidden;
+     padding: 0;
+     position: absolute;
+     width: 1px;
+ }
+ .c-unsupported-browser {
+    display: block; 
+    height: 60px;
+    padding:15px 0;
+    position: relative;
+    width: 100%
+    z-index 1;   
+    display: none;
+
+ }
+ .c-unsupported-browser_message {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-color: #ff6900;
+    display: -ms-flexbox;
+    display: flex;
+    height: inherit;
+    left: 0px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    position: fixed;
+    text-align: center;
+    top: 0px;
+    width: 100%;
+ }
+ p {
+     font-size: 1.25rem;
+     letter-spacing：0.5px;
+     line-height: 1.4em;
+     box-sizing: border-box;
+     color: #333e48;
+     font-style: normal;
+     font-family: "Lato","Helvetica","Arial","sans-serif";
+     font-weight: 400;
+
+ }
+
+ .c-notifications-wrapper {
+     background-color: #e5eceb;
+     position: -webkit-sticky;
+     position: sticky;
+     z-index: 99;
+ }
+ .c-notification {
+     background-color: #e5eceb;
+     box-sizing: content-box;
+     min-height: 55px;
+     position: sticky !important;
+     width: 100%;
+  }
+                   
+ .c-sticky-wrapper {
+     position: fixed;
+     position: -webkit-sticky;
+     position: sticky;
+     top: 0;
+     width: 100%;
+     z-index: 50 !important;
+ }
+ .a {
+     display: none;
+     margin-bottom: 3px;
+
+ }
+ .b {
+     -ms-flex-align: center;
+     display: -ms-flexbox;
+     -ms-flex-direction: column;
+     -ms-flex-pack: center;
+
+ }
+ .c-image-above-content-card_image-placeholder {
+     display: -ms-flexbox;
+     display: flex;
+     -webkit-box-pack: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     margin-bottom: 40px;
+     max-height: 150px;
+     width: 100%;
+ }           
